@@ -1,0 +1,10 @@
+Package: qPCR
+Type: Package
+Title: Data analysis and visualization of real-time PCR
+Version: 0.1.0
+Author: Zhan Li
+Maintainer: Zhan Li <2194996299@qq.com>
+Description: Data analysis and visualization of real-time PCR.
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0
